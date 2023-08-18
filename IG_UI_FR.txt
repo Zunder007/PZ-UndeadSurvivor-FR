@@ -1,0 +1,9 @@
+IG_UI_FR = {
+	IGUI_HotbarAttachment_PrepperVestFlashlight = "Prepper Gilet Lampe de poche",
+	IGUI_HotbarAttachment_PrepperVestKnife = "Prepper Gilet Couteau",
+	IGUI_HotbarAttachment_PrepperHolster = "Prepper Étui",
+	IGUI_HotbarAttachment_PrepperGunMagazine1 = "Prepper Magazine d'armes à feu 1",
+	IGUI_HotbarAttachment_PrepperGunMagazine2 = "Prepper Magazine d'armes à feu 2",
+	IGUI_HotbarAttachment_PrepperGunMagazine3 = "Prepper Magazine d'armes à feu 3",
+	IGUI_HotbarAttachment_PrepperGunMagazine4 = "Prepper Magazine d'armes à feu 4",
+}
