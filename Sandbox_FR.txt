@@ -1,0 +1,18 @@
+Sandbox_FR = {
+	Sandbox_UndeadSurvivor.StalkerChance = "Chance d'apparition de Stalker, en pourcentage",
+	Sandbox_UndeadSurvivor.StalkerChance_tooltip = "C'est perceptuel, mais la chance d'apparition de cette tenue est partagée avec celle des autres tenues.<br> Donc même à 100 %, vous n'aurez jamais TOUT les zombies apparaissant avec cette tenue.",
+		
+	Sandbox_UndeadSurvivor.NomadChance = "Chance d'apparition de Nomade, en pourcentage",
+	Sandbox_UndeadSurvivor.NomadChance_tooltip = "C'est perceptuel, mais la chance d'apparition de cette tenue est partagée avec celle des autres tenues.<br> Donc même à 100 %, vous n'aurez jamais TOUT les zombies apparaissant avec cette tenue.",
+		
+	Sandbox_UndeadSurvivor.PrepperChance = "Chance d'apparition de Prepper, en pourcentage",
+	Sandbox_UndeadSurvivor.PrepperChance = "C'est perceptuel, mais la chance d'apparition de cette tenue est partagée avec celle des autres tenues.<br> Donc même à 100 %, vous n'aurez jamais TOUT les zombies apparaissant avec cette tenue.",
+	
+	Sandbox_UndeadSurvivor.HeadhunterChance = "Chance d'apparition de Headhunter, en pourcentage",
+	Sandbox_UndeadSurvivor.HeadhunterChance = "C'est perceptuel, mais la chance d'apparition de cette tenue est partagée avec celle des autres tenues.<br> Donc même à 100 %, vous n'aurez jamais TOUT les zombies apparaissant avec cette tenue.",
+
+	Sandbox_UndeadSurvivor.AmazonaChance = "Chance d'apparition de Amazone, en pourcentage",
+	Sandbox_UndeadSurvivor.AmazonaChance = "C'est perceptuel, mais la chance d'apparition de cette tenue est partagée avec celle des autres tenues.<br> Donc même à 100 %, vous n'aurez jamais TOUT les zombies apparaissant avec cette tenue.<br> Si vous voulez avoir un spawnrate égal parmi toutes les tenues, vous devriez faire en sorte que le pourcentage de l'Amazone soit deux fois plus grand que celui des zombies féminins.",
+	
+	Sandbox_UndeadSurvivor = "Survivant mort-vivant"
+}
