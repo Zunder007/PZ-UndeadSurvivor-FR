@@ -1,0 +1,7 @@
+ContextMenu_FR = {
+    ContextMenu_TuckIn = "Rentrer",
+    ContextMenu_TuckOut = "Sortir",
+    ContextMenu_UpHoodie = "Relever la capuche",
+    ContextMenu_DownHoodie = "Baisser la capuche",
+    ContextMenu_ChangeFeatherPosition = "Changer la position de la plume",
+}
