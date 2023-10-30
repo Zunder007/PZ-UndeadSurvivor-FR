@@ -1,0 +1,11 @@
+Recipe_FR = {
+	Recipe_Dismantle_Prepper_Flashlight = "Démonter la lampe de poche Prepper",
+	Recipe_Insert_Battery_into_Prepper_Flashlight = "Insérer la batterie dans la lampe de poche Prepper",
+	Recipe_Knock_Prepper_Knife = "Frapper à l'aide d'un couteau Prepper",
+	Recipe_Make_Prepper_Vest_with_bags = "Faire un gilet Prepper avec des sacs",
+	Recipe_Remove_Bags_from_Prepper_Vest = "Retirer les sacs du gilet Prepper",
+	Recipe_Remove_Battery_from_Prepper_Flashlight = "Retirer la batterie de la lampe de poche Prepper",
+	Recipe_Stab_Prepper_Knife = "Poignarder à l'aide d'un couteau Prepper",
+	Recipe_Swing_Prepper_Knife = "Balancer un couteau Prepper",
+	Recipe_Trim_Amazona_Dress = "Parer la robe Amazone",
+}
