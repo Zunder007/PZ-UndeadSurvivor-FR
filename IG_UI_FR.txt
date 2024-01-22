@@ -6,4 +6,6 @@ IG_UI_FR = {
 	IGUI_HotbarAttachment_PrepperGunMagazine2 = "Prepper Magazine d'armes à feu 2",
 	IGUI_HotbarAttachment_PrepperGunMagazine3 = "Prepper Magazine d'armes à feu 3",
 	IGUI_HotbarAttachment_PrepperGunMagazine4 = "Prepper Magazine d'armes à feu 4",
+
+	IGUI_Hair_Stalker = "IGUI_Hair_Stalker",
 }
